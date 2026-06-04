@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Research
 nav:
-  order: 2
-  tooltip: List of Publications
+  order: 1
+  tooltip: List of active research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
