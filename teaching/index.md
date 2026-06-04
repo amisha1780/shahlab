@@ -2,7 +2,7 @@
 title: Teaching
 nav:
   order: 3
-  tooltip: Musings and miscellany
+  tooltip: Courses taught and other teaching activities
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
