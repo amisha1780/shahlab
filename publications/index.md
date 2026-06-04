@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 2
-  tooltip: List of Publications
+  tooltip: List of publications
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
