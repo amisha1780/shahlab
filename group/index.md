@@ -2,7 +2,7 @@
 title: Group
 nav:
   order: 4
-  tooltip: About our team
+  tooltip: About our group members
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
