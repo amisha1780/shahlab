@@ -11,12 +11,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@amisha1780.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: adshah@purdue.edu
+  orcid: 0000-0003-0096-9922
+  google-scholar: 2mQSTsIAAAAJ
   github: amisha1780
-  twitter: amisha1780
-  youtube: amisha1780
+  # twitter: amisha1780
+  # youtube: amisha1780
 
 ### jekyll settings
 
