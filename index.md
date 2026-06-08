@@ -34,7 +34,7 @@ One of our projects evaluates the key protochemical reaction mechanisms driving 
 
 {% capture text %}
 
-Check out one our publications published by our recent Ph.D. graduate, Kris Isaacson! This study evaluated the formaton and leaching of organic compounds following thermal degradation of drinking water plastic pipes. Work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
+Check out one of our papers published by our recent Ph.D. graduate, Kris Isaacson! His paper evaluated the formaton and leaching of organic compounds following thermal degradation of drinking water plastic pipes. His work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
 
 {%
   include button.html
