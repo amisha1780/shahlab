@@ -26,7 +26,7 @@ One project evaluates the key protochemical reaction mechanisms driving COS and 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/highlights_picture1.jpg"
   link="research"
   title="Our Research"
   text=text
