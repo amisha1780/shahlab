@@ -34,7 +34,7 @@ One of our projects evaluates the key protochemical reaction mechanisms driving 
 
 {% capture text %}
 
-Check out one our recent publications published by our recent Ph.D. graduate, Kris Isaacson! This study evaluated the formaton and leaching of organic compound following thermal degradation of drinking water plastic pipes. Work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
+Check out one our publications published by our recent Ph.D. graduate, Kris Isaacson! This study evaluated the formaton and leaching of organic compounds following thermal degradation of drinking water plastic pipes. Work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
 
 {%
   include button.html
@@ -49,8 +49,8 @@ Check out one our recent publications published by our recent Ph.D. graduate, Kr
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
+  image="images/highlights_picture2.jpg"
+  link="publications"
   title="Our Publications"
   flip=true
   style="bare"
@@ -59,12 +59,12 @@ Check out one our recent publications published by our recent Ph.D. graduate, Kr
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Congratulations to Guanchun Wang, a second year Ph.D. student in our group, for giving his first talk at the Spring 2026 ACS conference in Atlanta, GA! His presentation pertained to recovering critical materials from landfill leachate.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="group"
+  text="Meet our group"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/highlights_picture3.jpg"
+  link="group"
+  title="Our Group"
   text=text
 %}
