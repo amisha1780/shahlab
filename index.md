@@ -1,7 +1,7 @@
 ---
 ---
 
-# amisha1780's Website
+# EVALUATING CHEMICAL PROCESSES IN THE AQUEOUS PHASE TO IMPROVE WATER QUALITY
 
 An engaging 1-3 sentence description of your lab.
 
