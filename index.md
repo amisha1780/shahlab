@@ -11,7 +11,7 @@ The **Shah lab** is focused on evaluating how chemicals transform in complex aqu
 
 {% capture text %}
 
-One project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters. Implications to the global sulfur cycle and climate change. 
+One of our project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters. Implications to the global sulfur cycle and climate change. 
 
 {%
   include button.html
