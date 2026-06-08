@@ -1,9 +1,9 @@
 ---
 ---
 
-# EVALUATING CHEMICAL PROCESSES IN THE AQUEOUS PHASE TO IMPROVE WATER QUALITY
+# EVALUATING CHEMICAL PROCESSES IN WATER
 
-An engaging 1-3 sentence description of your lab.
+The Shah lab is focused on evaluating how chemicals transform in complex aqueous phase matrices by using advanced analytical tools to investigate the kinetics and mechanisms of these reactions. Our central goal is to assess how such processes impact drinking water and wastewater to improve public health but also to explore how they may impact other environmental and sustainability related challenges faced today. Targeted research areas include disinfection, disinfection by-product formation, environmental photochemistry, and critical materials recovery.
 
 {% include section.html %}
 
