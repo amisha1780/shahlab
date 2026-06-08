@@ -5,8 +5,8 @@ subtitle:
 description: An engaging 1-3 sentence description of your lab. 
 header: images/background.png
 footer: images/background.png
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 proofer: false
 
 # site social media and other links
