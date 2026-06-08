@@ -11,7 +11,7 @@ The **Shah lab** is focused on evaluating how chemicals transform in complex aqu
 
 {% capture text %}
 
-One project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters. Implications to the global sulfur cycle and climate change. 
+One of our projects evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters, with, important implications to the global sulfur cycle and climate change. 
 
 {%
   include button.html
@@ -34,12 +34,12 @@ One project evaluates the key protochemical reaction mechanisms driving COS and 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out one our recent publications published by our recent Ph.D. graduate! This study evaluated the formaton and leaching of organic compound following thermal degradation of drinking water plastic pipes. Work directly impacts the role of plastic pipes in contaminating drinking water during wildfires.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
