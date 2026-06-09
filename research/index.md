@@ -5,23 +5,22 @@ nav:
   tooltip: List of active research projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-droplet" %}Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Below are a list of currently active and past reseach projects led by the Shah lab group. These research projects are an exciting way for us to bring new scientific discoveries to the forfront of our field that we hope directly impact people's lives and the natural world around us.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, funding, collaboration" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Current Projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## Past Projects
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
