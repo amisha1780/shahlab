@@ -1,5 +1,5 @@
 {{ " " }}
-<div class="card" data-style="{{ include.style }}"> style="display: flex; align-items: center; gap: 20px;">
+<div class="card" data-style="{{ include.style }}" style="display: flex; align-items: center; gap: 20px;">
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
