@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-droplet" %}Research Projects
 
-Below are a list of currently active and past reseach projects led by the Shah lab group. These research projects are an exciting way for us to bring new scientific discoveries to the forfront of our field that we hope directly impact people's lives and the natural world around us.
+Below are a list of currently active and past reseach projects led by the Shah lab group. These research projects are an exciting way for us to bring new scientific discoveries to the forfront of our field that we hope impact people's lives and the natural world around us.
 
-{% include tags.html tags="publication, funding, collaboration" %}
+{% include tags.html tags="publication, funded, collaboration" %}
 
 {% include search-info.html %}
 
