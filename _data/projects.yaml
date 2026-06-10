@@ -1,7 +1,7 @@
 - title: Organic Sulfur Photochemistry
   subtitle: Formation of COS and CS<sub>2</sub> in natural waters.
   group: Current Projects
-  image: images/project1.jpg
+  image: images/project2.jpg
   link: https://pubs.acs.org/doi/10.1021/acs.est.8b01618
   description: This NSF-funded project evaluates how different indirect photochemical pathways influence COS and CS<sub>2</sub> formation in ocean and freshwaters during sunlight photolysis.
   repo: amisha1780/shahlab
@@ -10,16 +10,16 @@
     - funded
     - collaboration
     
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Resource Recovery in Critical Materials
+  subtitle: Critical Materials Recovery from Landfill Leachate
+  group: Current Projects
+  image: images/project1.jpg
+  link: https://engineering.purdue.edu/SEE/AboutUs/News/2024/NSFCollaborativeResearchAward
+  description: This NSF-funded interdisciplinary project examines the potential for landfill leachate to serve as a source of critical materials by examining fundamental chemical, biological, and physical processes governing its potential recovery.
+  repo: amisha1780/shahlab
   tags:
-    - resource
+    - funded
+    - collaboration
 
 - title: Cool Tutorial
   subtitle: a subtitle
