@@ -1,21 +1,23 @@
 {{ " " }}
-<div class="card" data-style="{{ include.style }}">
+<div class="card" data-style="{{ include.style }}"> style="display: flex; align-items: center; gap: 20px;">
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
     {% endif %}
     aria-label="{{ include.title | default: "card link" | regex_strip }}"
     class="card-image"
+    style="flex: 0 0 40%; max-width: 40%; min-width: 250px;"
   >
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       alt="{{ include.title | default: "card image" | regex_strip }}"
       loading="lazy"
+      style="width: 100%; height: auto; object-fit: contain;"
       {% include fallback.html %}
     >
   </a>
 
-  <div class="card-text">
+  <div class="card-text" style="flex: 1;">
     {% if include.title %}
       <a
         {% if include.link %}
