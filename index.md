@@ -11,7 +11,7 @@ The **Shah lab** at Purdue University is focused on evaluating how chemicals tra
 
 {% capture text %}
 
-One project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters, with important implications to the global sulfur cycle and climate change. 
+Posted: 10 June 2026. One current project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters, with important implications to the global sulfur cycle and climate change. 
 
 {%
   include button.html
@@ -34,7 +34,7 @@ One project evaluates the key protochemical reaction mechanisms driving COS and 
 
 {% capture text %}
 
-Check out one of our papers published by our recent Ph.D. graduate, Kris Isaacson! His paper evaluated the formation and leaching of organic compounds following thermal degradation of drinking water plastic pipes. His work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
+Posted: 10 June 2026. Check out one of our papers published by our recent Ph.D. graduate, Kris Isaacson! His paper evaluated the formation and leaching of organic compounds following thermal degradation of drinking water plastic pipes. His work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Check out one of our papers published by our recent Ph.D. graduate, Kris Isaacso
 
 {% capture text %}
 
-Congratulations to Guanchun Wang, a second year Ph.D. student in our group, for giving his first talk at the Spring 2026 ACS conference in Atlanta, GA! His presentation pertained to recovering critical materials from landfill leachate.
+Posted: 10 June 2026. Congratulations to Guanchun Wang, a second year Ph.D. student in our group, for giving his first talk at the Spring 2026 ACS conference in Atlanta, GA! His presentation pertained to recovering critical materials from landfill leachate.
 
 {%
   include button.html
