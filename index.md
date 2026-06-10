@@ -3,7 +3,7 @@
 
 # EVALUATING CHEMICAL PROCESSES IN WATER
 
-The **Shah lab** is focused on evaluating how chemicals transform in complex aqueous phase matrices by using advanced analytical tools to investigate the kinetics and mechanisms of these reactions. Our central mission is to assess how such processes impact drinking water and wastewater quality to improve public health but also to explore how they may impact other environmental and sustainability related challenges faced today. Targeted research areas include disinfection, disinfection by-product formation, environmental photochemistry, and critical materials recovery from aqueous waste streams.
+The **Shah lab** at Purdue University is focused on evaluating how chemicals transform in complex aqueous phase matrices by using advanced analytical tools to investigate the kinetics and mechanisms of these reactions. Our central mission is to assess how such processes impact drinking water and wastewater quality to improve public health but also to explore how they may impact other environmental and sustainability related challenges faced today. Targeted research areas include disinfection, disinfection by-product formation, environmental photochemistry, and critical materials recovery from aqueous waste streams.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ The **Shah lab** is focused on evaluating how chemicals transform in complex aqu
 
 {% capture text %}
 
-One of our projects evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters, with important implications to the global sulfur cycle and climate change. 
+One project evaluates the key protochemical reaction mechanisms driving COS and CS<sub>2</sub> formation from organic sulfur during sunlight photolysis of natural waters, with important implications to the global sulfur cycle and climate change. 
 
 {%
   include button.html
