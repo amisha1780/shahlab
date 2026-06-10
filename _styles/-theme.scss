@@ -52,3 +52,9 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+
+// Remove the grey line from the bottom of the header
+header.background {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
