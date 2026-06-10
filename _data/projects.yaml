@@ -21,16 +21,26 @@
     - funded
     - collaboration
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Point-of-Use Filters  
+  subtitle: Free Chlorine and Chloramine Removal by Point-of-Use Filters
+  group: Current Projects
+  image: images/project3.jpg
+  link:
+  description: This project examines the ability for point-of-use filter media to remove and react with free chlorine and chloramines and how this may affect water quality downstream.
+  repo: amisha1780/shahlab
+  tags:
+
+- title: Disinfection during Membrane Filtration
+  subtitle: Exploring Fundamental Mechanisms behind Polyamide-based Membrane Degradation during Disinfection
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: This NSF-funded project examined the fundamental kinetics and mechanisms of polyamide monomer degradation during chlorination and chloramination and evaluated similar processes on flat-sheet polyamide membranes.
+  repo: amisha1780/shahlab
   tags:
-    - resource
     - publication
-
+    - funded
+    - collaboration
+    
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
