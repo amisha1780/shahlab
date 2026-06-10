@@ -1,18 +1,15 @@
 {{ " " }}
-<div class="card" data-style="{{ include.style }}" style="display: flex; align-items: center; gap: 20px;">
+<div class="card" data-style="{{ include.style }}" style="display: flex; flex-direction: column; width: 100%;">
   <a
-    {% if include.link %}
-      href="{{ include.link | relative_url | uri_escape }}"
-    {% endif %}
-    aria-label="{{ include.title | default: "card link" | regex_strip }}"
+    ...
     class="card-image"
-    style="flex: 0 0 40%; max-width: 40%; min-width: 250px;"
+    style="width: 100%; height: 250px; overflow: hidden; display: block;"
   >
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       alt="{{ include.title | default: "card image" | regex_strip }}"
       loading="lazy"
-      style="width: 100%; height: auto; object-fit: contain;"
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
       {% include fallback.html %}
     >
   </a>
