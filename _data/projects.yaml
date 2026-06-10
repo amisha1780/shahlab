@@ -31,30 +31,34 @@
   tags:
 
 - title: Disinfection during Membrane Filtration
-  subtitle: Exploring Fundamental Mechanisms behind Polyamide-based Membrane Degradation during Disinfection
-  image: images/photo.jpg
-  link: https://github.com/
-  description: This NSF-funded project examined the fundamental kinetics and mechanisms of polyamide monomer degradation during chlorination and chloramination and evaluated similar processes on flat-sheet polyamide membranes.
+  subtitle: Fundamental Mechanisms behind Polyamide-based Membrane Degradation during Disinfection
+  image: images/pastproject1.jpg
+  link: https://pubs.acs.org/doi/10.1021/acs.est.9b01446
+  description: This NSF-funded project examined the kinetics and mechanisms of polyamide monomer degradation during chlorination and chloramination and evaluated similar processes on flat-sheet polyamide membranes.
   repo: amisha1780/shahlab
   tags:
     - publication
     - funded
     - collaboration
     
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Drinking Water Impacts during Wildfires
+  subtitle: Contaminant Formation following the Thermal Degradation of Plastic Distribution Pipes
+  image: images/pastproject2.jpg
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0304389425004765
+  description: This Water Research Foundation (WRF)-funded project, in collaboration with numerous water utilties, evaluated how plastic pipes used in distribution systems formed contaminants readily found in such systems after wildfires. 
+  repo: amisha1780/shahlab
   tags:
-    - software
+    - publication
+    - funded
+    - collaboration
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Water Qualilty Impacts from Plastic Pipes
+  subtitle: Disinfection By-product Formation from Plastic Pipes Conveying Disinfected Drinking Water
+  image: images/pastproject3.jpg
+  link: https://pubs.rsc.org/en/content/articlelanding/2020/ew/d0ew00262c
+  description: This Showalter Research Trust-funded project evaluated the formation and sorption of trihalomethanes when chlorinated water was exposed to typical household plastic pipes.
+  repo: amisha1780/shahlab
   tags:
-    - software
+    - publication
+    - funded
+    - collaboration
