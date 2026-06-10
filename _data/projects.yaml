@@ -4,7 +4,7 @@
   image: images/project2.jpg
   link: https://pubs.acs.org/doi/10.1021/acs.est.8b01618
   description: This NSF-funded project evaluates how different indirect photochemical pathways influence COS and CS<sub>2</sub> formation in ocean and freshwaters during sunlight photolysis.
-  repo: amisha1780/shahlab
+  repo: greenelab/lab-website-template
   tags:
     - publication
     - funded
@@ -16,7 +16,7 @@
   image: images/project1.jpg
   link: https://engineering.purdue.edu/SEE/AboutUs/News/2024/NSFCollaborativeResearchAward
   description: This NSF-funded interdisciplinary project examines the potential for landfill leachate to serve as a source of critical materials by examining fundamental chemical, biological, and physical processes governing its potential recovery.
-  repo: amisha1780/shahlab
+  repo: greenelab/lab-website-template
   tags:
     - funded
     - collaboration
