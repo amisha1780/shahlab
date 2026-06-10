@@ -17,7 +17,7 @@ Below are a list of currently active and past reseach projects led by the Shah l
 
 ## Current Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'Current Projects'" %}
 
 {% include section.html %}
 
