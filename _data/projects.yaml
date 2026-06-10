@@ -1,12 +1,15 @@
 - title: Organic Sulfur Photochemistry
-  subtitle: Formation of COS and CS<sub>2</sub>
+  subtitle: Formation of COS and CS<sub>2</sub> in natural waters.
   group: Current Projects
   image: images/project1.jpg
   link: https://pubs.acs.org/doi/10.1021/acs.est.8b01618
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This NSF-funded project evaluates how different indirect photochemical pathways influence COS and CS<sub>2</sub> formation in ocean and freshwaters during sunlight photolysis.
   repo: amisha1780/shahlab
   tags:
-    - resource
+    - publication
+    - funded
+    - collaboration
+    
 
 - title: Cool Package
   subtitle: a subtitle
