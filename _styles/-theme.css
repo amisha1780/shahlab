@@ -41,4 +41,9 @@
   --transition: 0.2s ease;
 }
 
+header.background {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
 /*# sourceMappingURL=-theme.css.map */
