@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Fun!
 nav:
-  order: 6
-  tooltip: Email, address, and location
+  order: 5
+  tooltip: Fun Activities In and Outside the Lab
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
