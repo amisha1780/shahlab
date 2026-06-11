@@ -7,8 +7,10 @@ nav:
 
 # Courses Taught
 
-
-
+**EEE 300**: Environmental and Ecological Systems Modeling
+**Course Description**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Course Syllabus**
 
 
 {% comment %}
