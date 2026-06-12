@@ -11,7 +11,7 @@ nav:
 
 **<u>Course Description</u>**: This course will serve as an introduction to computation methods using Matlab for describing physical, chemical, and microbiological processes that occur in natural and engineered systems(i.e. rivers, lakes, water treatment plants, indoor air environments). There will be a strong emphasis on understanding and conceptualizing important processes, data analysis, algorithm development, and competency in the use of Matlab programming tools to perform model simulations.<br>
 <br>
-[**Course Syllabus**](assets/EEE300-SYLLABUS-SHAH-11Feb2026-forwebsite.pdf)
+[**Course Syllabus**](assets/EEE300_Spring2026_forwebsite.pdf)
 
 {% comment %}
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
