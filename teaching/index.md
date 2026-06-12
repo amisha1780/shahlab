@@ -10,7 +10,7 @@ nav:
 <h3 style="color: #1C71A6;"><u>EEE 300: Environmental and Ecological Systems Modeling</u></h3>
 
 **<span style="color: #1C71A6;"><u>Course Description</u></span>**: This course will serve as an introduction to computation methods using Matlab for describing physical, chemical, and microbiological processes that occur in natural and engineered systems(i.e. rivers, lakes, water treatment plants, indoor air environments). There will be a strong emphasis on understanding and conceptualizing important processes, data analysis, algorithm development, and competency in the use of Matlab programming tools to perform model simulations.<br>
-[**<span style="color: #1C71A6;">Course Syllabus</u>**](assets/EEE300_Spring2026_forwebsite.pdf)<br>
+[**<span style="color: #1C71A6;">Course Syllabus</span>**](assets/EEE300_Spring2026_forwebsite.pdf)<br>
 **<span style="color: #1C71A6;"><u>Semesters Taught</u></span>**: Taught every spring semester. <br>
 
 <h3 style="color: #89B352;"><u>EEE 360: Water Quality and Treatment Laboratory</u></h3>
