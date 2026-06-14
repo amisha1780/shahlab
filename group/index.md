@@ -7,16 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Group
 
-## Current Group Members
-
 {% include section.html %}
+
+## Current Group Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+{% include section.html %}
+
 ## Past Group Members
 
-{% include section.html %}
+
 
 
 {% comment %}
