@@ -1,6 +1,6 @@
 ---
 name: Amisha Shah
-image: images/group_amisha.jpg
+image: images/group_amisha.jpeg
 role: principal-investigator
 affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV.pdf'>Updated CV</a>"
 aliases:
