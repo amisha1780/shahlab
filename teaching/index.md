@@ -5,7 +5,7 @@ nav:
   tooltip: Courses taught and other teaching activities
 ---
 
-# Courses Taught
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Courses Taught
 
 <h3 style="color: #1C71A6;"><u>EEE 300: Environmental and Ecological Systems Modeling</u></h3>
 
