@@ -16,9 +16,11 @@
     class="portrait"
     data-style="{{ include.style }}"
   >
+    {% comment %}
     {% if type %}
       {% include icon.html icon=type.icon %}
     {% endif %}
+    {% endcomment %}
 
     <img
       src="{{ member.image | relative_url | uri_escape }}"
