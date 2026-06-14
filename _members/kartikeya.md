@@ -1,8 +1,8 @@
 ---
 name: Kartikeya Pandey
-image: images/photo.jpg
+image: images/group_kartikeya.jpg
 role: phd
-group: Current Group Members
+group: PI and Current Group Members
 links:
   github: john-doe
 ---
