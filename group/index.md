@@ -12,7 +12,7 @@ nav:
 ## PI and Current Group Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" filter = "group =='PI and Current Group Members'"  %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" filter="group == 'PI and Current Group Members' and role != 'pi'" %}
 
 {% include section.html %}
 
