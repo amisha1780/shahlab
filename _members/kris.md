@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Kris Isaacson
 image: images/photo.jpg
-description: Lead Programmer
-role:
+description: 
+role: phd
 group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
