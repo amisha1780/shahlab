@@ -1,8 +1,8 @@
 ---
-name: Kartikeya Pandey
-image: images/photo.jpg
-role: phd
-group: Current Group Members
+name: Aeneas Hoffman
+image: images/group_aeneas.jpeg
+role: Undergraduate Student
+group: PI and Current Group Members
 links:
   github: john-doe
 ---
