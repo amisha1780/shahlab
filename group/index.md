@@ -9,10 +9,10 @@ nav:
 
 {% include section.html %}
 
-## Current Group Members
+## PI and Current Group Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter = "group =='Current Group Members'"  %}
+{% include list.html data="members" component="portrait" filter = "group =='PI and Current Group Members'"  %}
 
 {% include section.html %}
 

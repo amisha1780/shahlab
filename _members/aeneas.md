@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Kartikeya Pandey
 image: images/photo.jpg
 role: phd
 group: Current Group Members
