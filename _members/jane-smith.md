@@ -2,7 +2,7 @@
 name: Amisha Shah
 image: images/photo.jpg
 role: principal-investigator
-affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV.pdf'>Download Updated CV</a>"
+affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV.pdf'>Shah Updated CV</a>"
 aliases:
   - J. Smith
   - J Smith
