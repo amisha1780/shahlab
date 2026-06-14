@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Amisha Shah
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Purdue University
 aliases:
   - J. Smith
   - J Smith
