@@ -3,6 +3,8 @@
     | where_exp: "member", "member.slug == include.lookup"
     | first
   %}
+{% elsif include.item %}
+  {% assign member = include.item %}
 {% else %}
   {% assign member = include %}
 {% endif %}
