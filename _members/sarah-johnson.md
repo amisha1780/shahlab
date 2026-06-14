@@ -2,7 +2,8 @@
 name: Sarah Johnson
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role:
+group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
