@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Holly Haflich
 image: images/photo.jpg
-description: Lead Programmer
-role:
+description: MS Student
+role: 
 group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
