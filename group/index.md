@@ -12,12 +12,13 @@ nav:
 ## Current Group Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'and status == 'current' " %}
 
 {% include section.html %}
 
 ## Past Group Members
 
+{% include list.html data="members" component="portrait" filter="role != 'pi'and status == 'past' " %}
 
 
 
