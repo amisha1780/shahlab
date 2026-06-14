@@ -1,8 +1,8 @@
 ---
-name: Kartikeya Pandey
+name: Guanchun Wang
 image: images/photo.jpg
 role: phd
-group: Current Group Members
+group: PI and Current Group Members
 links:
   github: john-doe
 ---
