@@ -1,8 +1,8 @@
 ---
-name: Kartikeya Pandey
+name: Ethan Connolly
 image: images/photo.jpg
-role: phd
-group: Current Group Members
+role: Undergraduate Student
+group: PI and Current Group Members
 links:
   github: john-doe
 ---
