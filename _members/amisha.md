@@ -1,5 +1,5 @@
 ---
-name: Amisha Shah
+name: Dr. Amisha Shah
 image: images/group_amisha.jpeg
 role: principal-investigator
 group: PI and Current Group Members
