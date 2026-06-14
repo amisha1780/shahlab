@@ -1,8 +1,8 @@
 ---
-name: Kartikeya Pandey
-image: images/photo.jpg
+name: Donghao Hu
+image: images/group_donghao.jpg
 role: phd
-group: Current Group Members
+group: PI and Current Group Members
 links:
   github: john-doe
 ---
