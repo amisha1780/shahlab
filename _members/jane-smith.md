@@ -6,7 +6,6 @@ affiliation: Purdue University<br>[Download Updated CV](shah_CV.pdf)
 aliases:
   - J. Smith
   - J Smith
-cv: /assets/shah_cv.pdf/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
