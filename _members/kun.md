@@ -1,7 +1,7 @@
 ---
 name: Kun Huang
 image: images/group_kun.jpg
-description: 
+description: PhD Student <br> Previously a Post-Doc at EMPA, Switzerland 
 role: phd
 group: Past Group Members
 links:
