@@ -1,8 +1,8 @@
 ---
 name: Holly Haflich
 image: images/photo.jpg
-description: MS Student
-role: 
+description: 
+role: ms
 group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
