@@ -13,6 +13,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="group == 'PI and Current Group Members' and role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="group == 'PI and Current Group Members' and role == 'undergrad'" %}
 
 {% comment %}
 {% include list.html data="members" component="portrait" filter="group == 'PI and Current Group Members' and role != 'principal-investigator'" %}
