@@ -1,6 +1,6 @@
 ---
 name: Ethan Connolly
-image: images/photo.jpg
+image: images/group_ethan.jpg
 role: undergrad
 group: PI and Current Group Members
 links:
