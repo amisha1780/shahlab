@@ -5,7 +5,9 @@ nav:
   tooltip: Fun Activities In and Outside the Lab
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-sharp fa-solid fa-party-horn" %}Fun
+
+{% comment}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -75,3 +77,4 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% endcomment %}
