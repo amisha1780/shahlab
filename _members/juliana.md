@@ -1,7 +1,7 @@
 ---
 name: Juliana Gutierrez
 image: images/group_juliana.jpg
-description: Visiting Undergraduate Stuent
+description: Visiting Undergraduate Student
 role: undergrad
 group: Past Group Members
 links:
