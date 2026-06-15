@@ -11,8 +11,8 @@ nav:
 
 ## PI and Current Group Members
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="group == 'PI and Current Group Members' and role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="group == 'PI and Current Group Members' and role != 'principal-investigator'" %}
 
 {% include section.html %}
 
