@@ -1,7 +1,7 @@
 ---
 name: Ethan Connolly
 image: images/photo.jpg
-role: Undergraduate Student
+role: undergrad
 group: PI and Current Group Members
 links:
   github: john-doe
