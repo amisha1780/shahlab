@@ -1,5 +1,5 @@
 ---
-title: Fun!
+title: Fun
 nav:
   order: 5
   tooltip: Fun Activities In and Outside the Lab
