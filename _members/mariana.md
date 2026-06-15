@@ -3,7 +3,7 @@ name: Mariana Rodríguez Marañón
 image: images/group_mariana.jpg
 description: 
 role: ms
-group: Current Group Members
+group: PI and Current Group Members
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
