@@ -1,9 +1,9 @@
 ---
-name: Mariana Rodríguez Marañón
-image: images/group_mariana.jpg
+name: Gaopin Cao
+image: images/photo.jpg
 description: 
 role: ms
-group: Current Group Members
+group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

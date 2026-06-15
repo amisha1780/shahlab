@@ -1,9 +1,9 @@
 ---
-name: Mariana Rodríguez Marañón
-image: images/group_mariana.jpg
+name: Heather Murillo
+image: images/group_heather.jpeg
 description: 
-role: ms
-group: Current Group Members
+role: undergrad
+group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

@@ -1,9 +1,9 @@
 ---
-name: Mariana Rodríguez Marañón
-image: images/group_mariana.jpg
-description: 
-role: ms
-group: Current Group Members
+name: Kai Tsz-Yuet Chiu
+image: images/group_kai.jpeg
+description:
+role: undergrad
+group: Past Group Members
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
