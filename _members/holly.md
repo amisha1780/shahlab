@@ -1,7 +1,7 @@
 ---
 name: Holly Haflich
 image: images/group_holly.png
-description: "MS Student <br> Currently post-doc at Rice University <br> <a href='https://scholar.google.com/citations?user=soFZFOkAAAAJ&hl=en)' target='_blank' rel='noopener noreferrer'>Google Scholar Page</a>"
+description: "MS Student <br> Currently a Post-Doc at Rice University <br> <a href='https://scholar.google.com/citations?user=soFZFOkAAAAJ&hl=en)' target='_blank' rel='noopener noreferrer'>Google Scholar Page</a>"
 role: ms
 group: Past Group Members
 links:
