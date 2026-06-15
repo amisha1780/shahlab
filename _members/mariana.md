@@ -1,6 +1,6 @@
 ---
 name: Mariana Rodríguez Marañón
-image: images/group_mariana.jpg
+image: images/group_mariana.jpeg
 description: 
 role: ms
 group: PI and Current Group Members
