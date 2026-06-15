@@ -143,5 +143,19 @@ header[data-big] .title {
 header[data-big] .subtitle {
   font-size: var(--large);
 }
+@media (max-width: 700px) {
+  header[data-big] {
+    padding: 40px 20px; /* Shrinks the massive top/bottom padding on small screens */
+  }
+  header[data-big] nav {
+    flex-direction: column; /* Stacks the links vertically so they never collide */
+    gap: 12px;
+    width: 100%;
+    text-align: center;
+  }
+  header[data-big] .title {
+    font-size: var(--xl); /* Slightly scales down the lab title text so it fits mobile screens */
+  }
+}
 
 /*# sourceMappingURL=header.css.map */
