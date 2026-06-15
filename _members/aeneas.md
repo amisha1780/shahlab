@@ -1,7 +1,7 @@
 ---
 name: Aeneas Hoffman
 image: images/group_aeneas.jpeg
-role: Undergraduate Student
+role: undergrad
 group: PI and Current Group Members
 links:
   github: john-doe
