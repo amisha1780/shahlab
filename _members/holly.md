@@ -1,7 +1,7 @@
 ---
 name: Holly Haflich
 image: images/photo.jpg
-description: 
+description: MS Student <br> 
 role: ms
 group: Past Group Members
 links:
