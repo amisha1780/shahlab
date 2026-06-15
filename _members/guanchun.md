@@ -1,6 +1,6 @@
 ---
 name: Guanchun Wang
-image: images/grouop_guanchun.jpg
+image: images/group_guanchun.jpg
 role: phd
 group: PI and Current Group Members
 links:
