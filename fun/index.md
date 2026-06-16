@@ -8,17 +8,17 @@ nav:
 # {% include icon.html icon="fa-sharp fa-solid fa-party-horn" %} Fun
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
-  <img src="images/fun_photo1.jpg" alt="Lab Fun 1" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo2.jpg" alt="Lab Fun 2" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo3.jpg" alt="Lab Fun 3" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo4.jpg" alt="Lab Fun 4" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo6.jpg" alt="Lab Fun 5" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo6.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo7.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo8.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo9.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo10.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="images/fun_photo11.jpg" alt="Lab Fun 6" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo2.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo3.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo4.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo6.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo6.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo7.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo8.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
 </div>
 
 {% comment}
