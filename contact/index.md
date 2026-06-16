@@ -36,8 +36,8 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="purdue_cce.jpeg"
+  
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="purdue_see.jpeg"
+ 
 %}
 
 {% endcapture %}
@@ -56,8 +56,8 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="purdue_try2.jpg"
+
 %}
 
 {% endcapture %}
