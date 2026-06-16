@@ -1,7 +1,7 @@
 ---
 name: Heather Murillo
 image: images/group_heather.jpeg
-description: 
+description: Visiting Undergraduate Student 
 role: undergrad
 group: Past Group Members
 links:
