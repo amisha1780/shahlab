@@ -5,7 +5,9 @@ nav:
   tooltip: Fun Activities In and Outside the Lab
 ---
 
-# {% include icon.html icon="fa-sharp fa-solid fa-party-horn" %} Fun
+# {% include icon.html icon="fa-sharp-solid fa-party-horn" %} Fun
+
+Our lab group memories in and outside of the lab! It has been a joy to share science, hobbies, and most importantly food =).
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
   <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
@@ -23,9 +25,7 @@ nav:
 
 {% comment}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {%
   include button.html
