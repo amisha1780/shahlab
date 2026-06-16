@@ -1,6 +1,6 @@
 ---
 name: Kai Tsz-Yuet Chiu
-image: images/group_kai.jpeg
+image: images/group_kai.jpg
 description:
 role: undergrad
 group: Past Group Members
