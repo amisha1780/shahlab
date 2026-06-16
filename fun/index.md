@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-sharp-solid fa-party-horn" %} Fun
 
-Our lab group memories in and outside of the lab! It has been a joy to share science, hobbies, and most importantly food =).
+Our lab group memories in and outside of the lab! It has been a joy to share science, hobbies, and most importantly food 🙂🙂🙂.
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
   <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
