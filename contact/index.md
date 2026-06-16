@@ -52,7 +52,15 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% include cols.html col1=col1 col2=col2 col3 = col3 %}
 
 {% include section.html dark=true %}
 
