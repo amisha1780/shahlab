@@ -1,6 +1,6 @@
 ---
 name: Gaopin Cao
-image: images/photo.jpg
+image: images/group_gaopin.jpg
 description: 
 role: ms
 group: Past Group Members
