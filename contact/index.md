@@ -46,7 +46,7 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/purdue_see.jpeg"
+  image="images/purdue.svg"
  
 %}
 
@@ -56,7 +56,7 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/purdue_try2.jpeg"
+  image="images/purdue_see.jpeg"
 
 %}
 
