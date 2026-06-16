@@ -5,7 +5,7 @@ nav:
   tooltip: Fun Activities In and Outside the Lab
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Fun!
+# {% include icon.html icon="fa-regular fa-face-laugh" %}Fun!
 
 Our lab group memories in and outside of the lab! It has been a joy to share science, hobbies, and most importantly food 🙂🙂🙂.
 
