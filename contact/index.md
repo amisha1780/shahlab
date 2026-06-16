@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Shah lab is located on the 3rd floor of Hampton Hall at Purdue University's West Lafayette campus. Please feel free to reach out to PI Shah if you are interested in learning more about our work or are interested in joing our group.
+The Shah lab is jointly housed within the Lyles School of Civil and Construction Engineering and the Department of Sustainability Engineering and Environmental Engineering. The physical lab is located on the 3rd floor of Hampton Hall at Purdue University's West Lafayette campus. <br>
+<br>
+Please feel free to reach out to PI Shah if you are interested in learning more about our work or are interested in joing our group.
 
 {%
   include button.html
