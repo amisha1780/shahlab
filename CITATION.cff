@@ -1,17 +1,15 @@
 # citation metadata for the template itself
 
-title: "Lab Website Template"
+cff-version: 1.2.0
+title: "The Shah Lab"
 version: 1.3.9
 date-released: 2026-06-02
-url: "https://github.com/greenelab/lab-website-template"
+url: "https://github.com/amisha1780/shahlab"
 authors:
   - family-names: "Shah"
     given-names: "Amisha"
-    orcid: "https://orcid.org/0000-0002-4655-3773"
-  - family-names: "Greene"
-    given-names: "Casey"
-    orcid: "https://orcid.org/0000-0001-8713-9213"
+    orcid: "https://orcid.org/0000-0003-0096-9922"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.17228741
-cff-version: 1.2.0
+
