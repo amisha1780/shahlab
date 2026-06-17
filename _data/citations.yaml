@@ -15,7 +15,6 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389425004765-ga1.jpg
 - id: doi:10.1016/J.BUILDENV.2024.112221
   title: Peracetic acid emissions and exposures during building disinfection events
   authors:
@@ -27,8 +26,8 @@
   date: '2025-02-01'
   link: https://doi.org/hb727x
   orcid: 0000-0003-0096-9922
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/AWS2.1382
   title: 'Plastic water supply connectors: Leaching, hydrocarbon contamination, and
     decontamination'
@@ -43,8 +42,8 @@
   date: '2024-07-01'
   link: https://doi.org/hb727z
   orcid: 0000-0003-0096-9922
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/ANNWEH/WXAC096
   title: Evaluation of Workplace Exposures to Volatile Chemicals During COVID-19 Building
     Disinfection Activities with Proton Transfer Reaction Mass Spectrometry
