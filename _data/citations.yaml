@@ -13,6 +13,7 @@
   date: '2025-06-01'
   link: https://doi.org/hb725q
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/J.BUILDENV.2024.112221
@@ -26,6 +27,7 @@
   date: '2025-02-01'
   link: https://doi.org/hb727x
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/AWS2.1382
@@ -42,6 +44,7 @@
   date: '2024-07-01'
   link: https://doi.org/hb727z
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ANNWEH/WXAC096
@@ -58,6 +61,7 @@
   date: '2023-02-02'
   link: https://doi.org/gt5f92
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/JOURNAL.PWAT.0000141
@@ -76,6 +80,7 @@
   date: '2023-07-06'
   link: https://doi.org/hb738d
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.BUILDENV.2023.110953
@@ -92,6 +97,7 @@
   date: '2023-12-01'
   link: https://doi.org/gt5f94
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.EST.3C00700
@@ -116,6 +122,7 @@
   date: '2023-05-31'
   link: https://doi.org/gzq6ns
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D0EW00836B
@@ -133,6 +140,7 @@
   date: '2021-01-01'
   link: https://doi.org/gwdp54
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.MEMSCI.2021.119717
@@ -150,6 +158,7 @@
   date: '2021-12-01'
   link: https://doi.org/hb738f
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.HAZL.2021.100042
@@ -168,6 +177,7 @@
   date: '2021-11-01'
   link: https://doi.org/gt5f93
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000609182100023
@@ -177,6 +187,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000609182100023
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/WER.1650
@@ -189,6 +200,7 @@
   date: '2021-11-08'
   link: https://doi.org/gwjrtj
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.EST.0C06122
@@ -204,6 +216,7 @@
   date: '2021-01-26'
   link: https://doi.org/gwf6xc
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.ESTLETT.1C00390
@@ -221,6 +234,7 @@
   date: '2021-06-09'
   link: https://doi.org/gkg922
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/S11069-021-04714-9
@@ -248,6 +262,7 @@
   date: '2021-05-03'
   link: https://doi.org/hb738g
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.BUILDENV.2019.106566
@@ -268,6 +283,7 @@
   date: '2020-02-01'
   link: https://doi.org/hb738h
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D0EW00262C
@@ -282,6 +298,7 @@
   date: '2020-01-01'
   link: https://doi.org/gvvdfx
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D0EM00219D
@@ -296,6 +313,7 @@
   date: '2020-01-01'
   link: https://doi.org/gp95mx
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/AWS2.1183
@@ -310,6 +328,7 @@
   date: '2020-07-01'
   link: https://doi.org/g9837v
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.ESTLETT.9B00397
@@ -324,6 +343,7 @@
   date: '2019-07-24'
   link: https://doi.org/gwdw4j
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.EST.9B01446
@@ -340,6 +360,7 @@
   date: '2019-06-06'
   link: https://doi.org/gzgzmh
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.WATRES.2018.06.042
@@ -355,6 +376,7 @@
   date: '2018-10-01'
   link: https://doi.org/gd7588
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.EST.8B01618
@@ -368,6 +390,7 @@
   date: '2018-07-25'
   link: https://doi.org/gd69zh
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/C7EW00439G
@@ -380,6 +403,7 @@
   date: '2018-01-01'
   link: https://doi.org/gwc7m6
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/C5EW00061K
@@ -396,6 +420,7 @@
   date: '2015-01-01'
   link: https://doi.org/gpwj9p
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES503920N
@@ -411,6 +436,7 @@
   date: '2015-01-22'
   link: https://doi.org/f62838
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.CHEMOSPHERE.2014.03.135
@@ -442,6 +468,7 @@
   date: '2014-10-01'
   link: https://doi.org/f6jsth
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES304893M
@@ -456,6 +483,7 @@
   date: '2013-03-01'
   link: https://doi.org/f4q32q
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES203312S
@@ -468,6 +496,7 @@
   date: '2011-12-12'
   link: https://doi.org/cxdtg3
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES301867B
@@ -485,6 +514,7 @@
   date: '2012-08-16'
   link: https://doi.org/f36v7k
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.MEMSCI.2011.10.034
@@ -498,6 +528,7 @@
   date: '2012-02-01'
   link: https://doi.org/fgf423
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES204717J
@@ -513,6 +544,7 @@
   date: '2012-04-12'
   link: https://doi.org/f3w7kv
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES104240V
@@ -527,6 +559,7 @@
   date: '2011-03-18'
   link: https://doi.org/db6r7s
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.WATRES.2011.09.010
@@ -539,6 +572,7 @@
   date: '2011-11-01'
   link: https://doi.org/c8d7cb
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES060404C
@@ -552,6 +586,7 @@
   date: '2006-08-05'
   link: https://doi.org/bsn62v
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ES050054E
@@ -566,6 +601,7 @@
   date: '2005-08-06'
   link: https://doi.org/d7tbhv
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0006-3495(02)75579-3
@@ -580,6 +616,7 @@
   date: '2002-05-01'
   link: https://doi.org/fcvwv3
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2307/3393148
@@ -591,5 +628,6 @@
   date: '2001-01-01'
   link: https://doi.org/fw7p79
   orcid: 0000-0003-0096-9922
+  jane-doe: true
   plugin: orcid.py
   file: orcid.yaml
