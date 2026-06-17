@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-face-laugh" %}Fun!
 
-Our lab group memories in and outside of the lab! It has been a joy to share science, hobbies, and most importantly food 🙂🙂🙂.
+Our lab group memories in and outside of the lab. It has been a joy to share science, hobbies, and food!
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
   <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
@@ -18,14 +18,12 @@ Our lab group memories in and outside of the lab! It has been a joy to share sci
   <img src="/shahlab/images/fun_photo6.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo7.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo8.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
 </div>
 
 {% comment}
-
-
 
 {%
   include button.html
