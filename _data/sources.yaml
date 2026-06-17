@@ -1,5 +1,6 @@
 - id: doi:10.1016/J.JHAZMAT.2025.137562
-  image: "/shahlab/images/highlights_picture2.jpg"
+  #image: "/shahlab/images/highlights_picture2.jpg"
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
 - id: doi:10.1016/J.BUILDENV.2024.112221
 - id: doi:10.1002/AWS2.1382
