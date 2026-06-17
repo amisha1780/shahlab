@@ -14,3 +14,30 @@
   link: https://doi.org/hb725q
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/J.BUILDENV.2024.112221
+  title: Peracetic acid emissions and exposures during building disinfection events
+  authors:
+  - Xiaosu Ding
+  - Jinglin Jiang
+  - Amisha D. Shah
+  - Nusrat Jung
+  publisher: Building and Environment
+  date: '2025-02-01'
+  link: https://doi.org/hb727x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/AWS2.1382
+  title: 'Plastic water supply connectors: Leaching, hydrocarbon contamination, and
+    decontamination'
+  authors:
+  - Kristofer P. Isaacson
+  - Halley Le
+  - Akshat Verma
+  - Jeffrey P. Youngblood
+  - Amisha D. Shah
+  - Andrew J. Whelton
+  publisher: AWWA Water Science
+  date: '2024-07-01'
+  link: https://doi.org/hb727z
+  plugin: sources.py
+  file: sources.yaml
