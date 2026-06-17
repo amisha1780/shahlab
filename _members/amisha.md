@@ -5,6 +5,7 @@ role: principal-investigator
 group: PI and Current Group Members
 affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV.pdf'>Updated CV</a>"
 aliases:
+  - Shah
 
 ---
 
