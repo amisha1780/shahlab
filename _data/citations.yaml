@@ -15,7 +15,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389425004765-ga1.jpg
 - id: doi:10.1016/J.BUILDENV.2024.112221
   title: Peracetic acid emissions and exposures during building disinfection events
   authors:
