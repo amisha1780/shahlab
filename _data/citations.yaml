@@ -12,9 +12,10 @@
   publisher: Journal of Hazardous Materials
   date: '2025-06-01'
   link: https://doi.org/hb725q
-  image: /shahlab/images/highlights_picture2.jpg
+  orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
+  image: /shahlab/images/highlights_picture2.jpg
 - id: doi:10.1016/J.BUILDENV.2024.112221
   title: Peracetic acid emissions and exposures during building disinfection events
   authors:
@@ -25,6 +26,7 @@
   publisher: Building and Environment
   date: '2025-02-01'
   link: https://doi.org/hb727x
+  orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/AWS2.1382
@@ -40,5 +42,555 @@
   publisher: AWWA Water Science
   date: '2024-07-01'
   link: https://doi.org/hb727z
+  orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/ANNWEH/WXAC096
+  title: Evaluation of Workplace Exposures to Volatile Chemicals During COVID-19 Building
+    Disinfection Activities with Proton Transfer Reaction Mass Spectrometry
+  authors:
+  - Xiaosu Ding
+  - Jinglin Jiang
+  - Antonios Tasoglou
+  - Heinz Huber
+  - Amisha D Shah
+  - Nusrat Jung
+  publisher: Annals of Work Exposures and Health
+  date: '2023-02-02'
+  link: https://doi.org/gt5f92
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PWAT.0000141
+  title: Investigating water safety in multi-purpose buildings used as an elementary
+    school and plumbing remediation effectiveness
+  authors:
+  - Kyungyeon Ra
+  - Caitlin Proctor
+  - Christian Ley
+  - Danielle Angert
+  - Yoorae Noh
+  - Kristofer Isaacson
+  - Amisha Shah
+  - Andrew J. Whelton
+  publisher: PLOS Water
+  date: '2023-07-06'
+  link: https://doi.org/hb738d
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BUILDENV.2023.110953
+  title: Real-time indoor sensing of volatile organic compounds during building disinfection
+    events via photoionization detection and proton transfer reaction mass spectrometry
+  authors:
+  - Xiaosu Ding
+  - Hongbo Lu
+  - Jinglin Jiang
+  - Antonios Tasoglou
+  - Amisha D. Shah
+  - Nusrat Jung
+  publisher: Building and Environment
+  date: '2023-12-01'
+  link: https://doi.org/gt5f94
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.EST.3C00700
+  title: Residential Water Softeners Release Carbon, Consume Chlorine, and Require
+    Remediation after Hydrocarbon Contamination
+  authors:
+  - Caroline M. Jankowski
+  - Lauren A. Gustafson
+  - Kristofer P. Isaacson
+  - Katie R. Del Real
+  - Yoorae Noh
+  - Aliya B. Ehde
+  - Madeline B. Larsen
+  - Kyungyeon Ra
+  - Maria A. Palmegiani
+  - Catherine E. Fleming
+  - William J. Schmidt
+  - Amisha D. Shah
+  - Caitlin R. Proctor
+  - Andrew J. Whelton
+  publisher: Environmental Science &amp; Technology
+  date: '2023-05-31'
+  link: https://doi.org/gzq6ns
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0EW00836B
+  title: 'Drinking water contamination from the thermal degradation of plastics: implications
+    for wildfire and structure fire response'
+  authors:
+  - Kristofer P. Isaacson
+  - Caitlin R. Proctor
+  - Q. Erica Wang
+  - Ethan Y. Edwards
+  - Yoorae Noh
+  - Amisha D. Shah
+  - Andrew J. Whelton
+  publisher: 'Environmental Science: Water Research &amp; Technology'
+  date: '2021-01-01'
+  link: https://doi.org/gwdp54
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MEMSCI.2021.119717
+  title: Effect of halides on polyamide-based membrane flux and monomer degradation
+    during chloramination
+  authors:
+  - Holly M. Haflich
+  - Maria A. Ramirez Membreno
+  - Hyungyung Jo
+  - Kun Huang
+  - Michael Toomey
+  - John A. Howarter
+  - Amisha D. Shah
+  publisher: Journal of Membrane Science
+  date: '2021-12-01'
+  link: https://doi.org/hb738f
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.HAZL.2021.100042
+  title: Ethanol-based disinfectant sprays drive rapid changes in the chemical composition
+    of indoor air in residential buildings
+  authors:
+  - Jinglin Jiang
+  - Xiaosu Ding
+  - Kristofer P. Isaacson
+  - Antonios Tasoglou
+  - Heinz Huber
+  - Amisha D. Shah
+  - Nusrat Jung
+  - Brandon E. Boor
+  publisher: Journal of Hazardous Materials Letters
+  date: '2021-11-01'
+  link: https://doi.org/gt5f93
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000609182100023
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000609182100023
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/WER.1650
+  title: Influence of dissolved organic matter on carbonyl sulfide and carbon disulfide
+    formation from dimethyl sulfide during sunlight photolysis
+  authors:
+  - Mahsa Modiri Gharehveran
+  - Amisha D. Shah
+  publisher: Water Environment Research
+  date: '2021-11-08'
+  link: https://doi.org/gwjrtj
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.EST.0C06122
+  title: 'Reactivity of the Polyamide Membrane Monomer with Free Chlorine: Role of
+    Bromide'
+  authors:
+  - Kun Huang
+  - Keith P. Reber
+  - Michael D. Toomey
+  - John A. Howarter
+  - Amisha D. Shah
+  publisher: Environmental Science &amp; Technology
+  date: '2021-01-26'
+  link: https://doi.org/gwf6xc
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.ESTLETT.1C00390
+  title: Real-Time Measurements of Botanical Disinfectant Emissions, Transformations,
+    and Multiphase Inhalation Exposures in Buildings
+  authors:
+  - Jinglin Jiang
+  - Xiaosu Ding
+  - Antonios Tasoglou
+  - Heinz Huber
+  - Amisha D. Shah
+  - Nusrat Jung
+  - Brandon E. Boor
+  publisher: Environmental Science &amp; Technology Letters
+  date: '2021-06-09'
+  link: https://doi.org/gkg922
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11069-021-04714-9
+  title: Water safety attitudes, risk perception, experiences, and education for households
+    impacted by the 2018 Camp Fire, California
+  authors:
+  - Tolulope O. Odimayomi
+  - Caitlin R. Proctor
+  - Qi Erica Wang
+  - Arman Sabbaghi
+  - Kimberly S. Peterson
+  - David J. Yu
+  - Juneseok Lee
+  - Amisha D. Shah
+  - Christian J. Ley
+  - Yoorae Noh
+  - Charlotte D. Smith
+  - Jackson P. Webster
+  - Kristin Milinkevich
+  - Michael W. Lodewyk
+  - Julie A. Jenks
+  - James F. Smith
+  - Andrew J. Whelton
+  publisher: Natural Hazards
+  date: '2021-05-03'
+  link: https://doi.org/hb738g
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BUILDENV.2019.106566
+  title: An investigation of spatial and temporal drinking water quality variation
+    in green residential plumbing
+  authors:
+  - Maryam Salehi
+  - Tolu Odimayomi
+  - Kyungyeon Ra
+  - Christian Ley
+  - Ryan Julien
+  - A. Pouyan Nejadhashemi
+  - J. Sebastian Hernandez-Suarez
+  - Jade Mitchell
+  - Amisha D. Shah
+  - Andrew Whelton
+  publisher: Building and Environment
+  date: '2020-02-01'
+  link: https://doi.org/hb738h
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0EW00262C
+  title: Formation and sorption of trihalomethanes from cross-linked polyethylene
+    pipes following chlorinated water exposure
+  authors:
+  - Gaopin Cao
+  - Kun Huang
+  - Andrew J. Whelton
+  - Amisha D. Shah
+  publisher: 'Environmental Science: Water Research &amp; Technology'
+  date: '2020-01-01'
+  link: https://doi.org/gvvdfx
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0EM00219D
+  title: Influence of dissolved organic matter on carbonyl sulfide and carbon disulfide
+    formation from cysteine during sunlight photolysis
+  authors:
+  - Mahsa Modiri Gharehveran
+  - Ethan Hain
+  - Lee Blaney
+  - Amisha D. Shah
+  publisher: 'Environmental Science: Processes &amp; Impacts'
+  date: '2020-01-01'
+  link: https://doi.org/gp95mx
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/AWS2.1183
+  title: Wildfire caused widespread drinking water distribution network contamination
+  authors:
+  - Caitlin R. Proctor
+  - Juneseok Lee
+  - David Yu
+  - Amisha D. Shah
+  - Andrew J. Whelton
+  publisher: AWWA Water Science
+  date: '2020-07-01'
+  link: https://doi.org/g9837v
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.ESTLETT.9B00397
+  title: Energy-Efficient Electrochemical Oxidation of Perfluoroalkyl Substances Using
+    a Ti<sub>4</sub>O<sub>7</sub> Reactive Electrochemical Membrane Anode
+  authors:
+  - Thi Xuan Huong Le
+  - Holly Haflich
+  - Amisha D. Shah
+  - Brian P. Chaplin
+  publisher: Environmental Science &amp; Technology Letters
+  date: '2019-07-24'
+  link: https://doi.org/gwdw4j
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.EST.9B01446
+  title: 'Reactivity of the Polyamide Membrane Monomer with Free Chlorine: Reaction
+    Kinetics, Mechanisms, and the Role of Chloride'
+  authors:
+  - Kun Huang
+  - Keith P. Reber
+  - Michael D. Toomey
+  - Holly Haflich
+  - John A. Howarter
+  - Amisha D. Shah
+  publisher: Environmental Science &amp; Technology
+  date: '2019-06-06'
+  link: https://doi.org/gzgzmh
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.WATRES.2018.06.042
+  title: Formation of brominated trihalomethanes during chlorination or ozonation
+    of natural organic matter extracts and model compounds in saline water
+  authors:
+  - Zheng-Qian Liu
+  - Amisha D. Shah
+  - Elisabeth Salhi
+  - Jakov Bolotin
+  - Urs von Gunten
+  publisher: Water Research
+  date: '2018-10-01'
+  link: https://doi.org/gd7588
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.EST.8B01618
+  title: 'Indirect Photochemical Formation of Carbonyl Sulfide and Carbon Disulfide
+    in Natural Waters: Role of Organic Sulfur Precursors, Water Quality Constituents,
+    and Temperature'
+  authors:
+  - Mahsa Modiri Gharehveran
+  - Amisha D. Shah
+  publisher: Environmental Science &amp; Technology
+  date: '2018-07-25'
+  link: https://doi.org/gd69zh
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7EW00439G
+  title: Role of tertiary amines in enhancing trihalomethane and haloacetic acid formation
+    during chlorination of aromatic compounds and a natural organic matter extract
+  authors:
+  - Kun Huang
+  - Amisha D. Shah
+  publisher: 'Environmental Science: Water Research &amp; Technology'
+  date: '2018-01-01'
+  link: https://doi.org/gwc7m6
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C5EW00061K
+  title: 'Formation of disinfection by-products during ballast water treatment with
+    ozone, chlorine, and peracetic acid: influence of water quality parameters'
+  authors:
+  - Amisha D. Shah
+  - Zheng-Qian Liu
+  - Elisabeth Salhi
+  - "Thomas H\xF6fer"
+  - Barbara Werschkun
+  - Urs von Gunten
+  publisher: 'Environmental Science: Water Research &amp; Technology'
+  date: '2015-01-01'
+  link: https://doi.org/gpwj9p
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES503920N
+  title: 'Peracetic Acid Oxidation of Saline Waters in the Absence and Presence of
+    H<sub>2</sub>O<sub>2</sub>: Secondary Oxidant and Disinfection Byproduct Formation'
+  authors:
+  - Amisha D. Shah
+  - Zheng-Qian Liu
+  - Elisabeth Salhi
+  - "Thomas H\xF6fer"
+  - Urs von Gunten
+  publisher: Environmental Science &amp; Technology
+  date: '2015-01-22'
+  link: https://doi.org/f62838
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CHEMOSPHERE.2014.03.135
+  title: 'Emerging risks from ballast water treatment: The run-up to the International
+    Ballast Water Management Convention'
+  authors:
+  - Barbara Werschkun
+  - Sangeeta Banerji
+  - Oihane C. Basurko
+  - Matej David
+  - Frank Fuhr
+  - Stephan Gollasch
+  - Tamara Grummt
+  - Michael Haarich
+  - Awadhesh N. Jha
+  - Stefan Kacan
+  - Anja Kehrer
+  - Jan Linders
+  - Ehsan Mesbahi
+  - Dandu Pughiuc
+  - Susan D. Richardson
+  - Beatrice Schwarz-Schulz
+  - Amisha Shah
+  - Norbert Theobald
+  - Urs von Gunten
+  - Stefanie Wieck
+  - "Thomas H\xF6fer"
+  publisher: Chemosphere
+  date: '2014-10-01'
+  link: https://doi.org/f6jsth
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES304893M
+  title: Application of Ultraviolet, Ozone, and Advanced Oxidation Treatments to Washwaters
+    To Destroy Nitrosamines, Nitramines, Amines, and Aldehydes Formed during Amine-Based
+    Carbon Capture
+  authors:
+  - Amisha D. Shah
+  - Ning Dai
+  - William A. Mitch
+  publisher: Environmental Science &amp; Technology
+  date: '2013-03-01'
+  link: https://doi.org/f4q32q
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES203312S
+  title: 'Halonitroalkanes, Halonitriles, Haloamides, and N-Nitrosamines: A Critical
+    Review of Nitrogenous Disinfection Byproduct Formation Pathways'
+  authors:
+  - Amisha D. Shah
+  - William A. Mitch
+  publisher: Environmental Science &amp; Technology
+  date: '2011-12-12'
+  link: https://doi.org/cxdtg3
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES301867B
+  title: Measurement of Nitrosamine and Nitramine Formation from NO<sub><i>x</i></sub>
+    Reactions with Amines during Amine-Based Carbon Dioxide Capture for Postcombustion
+    Carbon Sequestration
+  authors:
+  - Ning Dai
+  - Amisha D. Shah
+  - Lanhua Hu
+  - Michael J. Plewa
+  - Bruce McKague
+  - William A. Mitch
+  publisher: Environmental Science &amp; Technology
+  date: '2012-08-16'
+  link: https://doi.org/f36v7k
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MEMSCI.2011.10.034
+  title: 'Mechanisms of antibiotic removal by nanofiltration membranes: Model development
+    and application'
+  authors:
+  - Amisha D. Shah
+  - Ching-Hua Huang
+  - Jae-Hong Kim
+  publisher: Journal of Membrane Science
+  date: '2012-02-01'
+  link: https://doi.org/fgf423
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES204717J
+  title: Trade-Offs in Disinfection Byproduct Formation Associated with Precursor
+    Preoxidation for Control of <i>N</i>-Nitrosodimethylamine Formation
+  authors:
+  - Amisha D. Shah
+  - Stuart W. Krasner
+  - Chih Fen Tiffany Lee
+  - Urs von Gunten
+  - William A. Mitch
+  publisher: Environmental Science &amp; Technology
+  date: '2012-04-12'
+  link: https://doi.org/f3w7kv
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES104240V
+  title: Impact of UV Disinfection Combined with Chlorination/Chloramination on the
+    Formation of Halonitromethanes and Haloacetonitriles in Drinking Water
+  authors:
+  - Amisha D. Shah
+  - Aaron D. Dotson
+  - Karl G. Linden
+  - William A. Mitch
+  publisher: Environmental Science &amp; Technology
+  date: '2011-03-18'
+  link: https://doi.org/db6r7s
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.WATRES.2011.09.010
+  title: Tertiary amines enhance reactions of organic contaminants with aqueous chlorine
+  authors:
+  - Amisha D. Shah
+  - Jae-Hong Kim
+  - Ching-Hua Huang
+  publisher: Water Research
+  date: '2011-11-01'
+  link: https://doi.org/c8d7cb
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES060404C
+  title: Reaction Kinetics and Transformation of Carbadox and Structurally Related
+    Compounds with Aqueous Chlorine
+  authors:
+  - Amisha D. Shah
+  - Jae-Hong Kim
+  - Ching-Hua Huang
+  publisher: Environmental Science &amp; Technology
+  date: '2006-08-05'
+  link: https://doi.org/bsn62v
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ES050054E
+  title: "Interactions of Fluoroquinolone Antibacterial Agents with Aqueous Chlorine:\u2009\
+    \ Reaction Kinetics, Mechanisms, and Transformation Pathways"
+  authors:
+  - Michael C. Dodd
+  - Amisha D. Shah
+  - Urs von Gunten
+  - Ching-Hua Huang
+  publisher: Environmental Science &amp; Technology
+  date: '2005-08-06'
+  link: https://doi.org/d7tbhv
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0006-3495(02)75579-3
+  title: Quantitative Analysis of Actin Patch Movement in Yeast
+  authors:
+  - A.E. Carlsson
+  - A.D. Shah
+  - D. Elking
+  - T.S. Karpova
+  - J.A. Cooper
+  publisher: Biophysical Journal
+  date: '2002-05-01'
+  link: https://doi.org/fcvwv3
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2307/3393148
+  title: New Amazonian Taxa of Philodendron (Araceae)
+  authors:
+  - Thomas B. Croat
+  - Amisha Shah
+  publisher: Novon
+  date: '2001-01-01'
+  link: https://doi.org/fw7p79
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
