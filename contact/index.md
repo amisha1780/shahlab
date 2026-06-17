@@ -30,7 +30,7 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
   link="https://maps.app.goo.gl/8RGYaBLKojvXGwMKA"
 %}
 
-{% include section.html %}
+{% include section.html dark=true %}
 
 {% capture col1 %}
 
@@ -46,7 +46,7 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 
 {%
   include figure.html
-  image="images/purdue.svg"
+  image="images/purdue_try2.jpeg"
  
 %}
 
@@ -63,6 +63,8 @@ Please feel free to reach out to PI Shah if you are interested in learning more 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3 = col3 %}
+
+{% comment %}
 
 {% include section.html dark=true %}
 
@@ -85,3 +87,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% endcomment %}
