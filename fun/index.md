@@ -18,9 +18,9 @@ Our lab group memories in and outside of the lab. It has been a joy to share sci
   <img src="/shahlab/images/fun_photo6.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo7.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo8.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
 </div>
 
 {% comment}
