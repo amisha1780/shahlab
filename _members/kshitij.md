@@ -1,6 +1,6 @@
 ---
 name: Kshitij Meshram
-image: images/group_kshitij.jpg
+image: images/group_kshitij.png
 description: MS Student (non-thesis)
 role: ms
 group: Past Group Members
