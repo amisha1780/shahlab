@@ -14,9 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Formation
-and aqueous phase leaching of organic compounds following thermal degradation of commercial
-drinking water plastic pipes" style="rich" %}
+{% include citation.html lookup="doi:10.1016/J.JHAZMAT.2025.137562" style="rich" %}
 
 {% include section.html %}
 
