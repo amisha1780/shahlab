@@ -79,8 +79,9 @@
   date: '2023-07-06'
   link: https://doi.org/hb738d
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/water/article/figure/image?size=medium&id=10.1371/journal.pwat.0000141.g001
 - id: doi:10.1016/J.BUILDENV.2023.110953
   title: Real-time indoor sensing of volatile organic compounds during building disinfection
     events via photoionization detection and proton transfer reaction mass spectrometry
@@ -95,8 +96,9 @@
   date: '2023-12-01'
   link: https://doi.org/gt5f94
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360132323009800-gr1.jpg
 - id: doi:10.1021/ACS.EST.3C00700
   title: Residential Water Softeners Release Carbon, Consume Chlorine, and Require
     Remediation after Hydrocarbon Contamination
