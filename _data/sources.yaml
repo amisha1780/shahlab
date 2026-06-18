@@ -11,6 +11,19 @@
 - id: doi:10.1002/AWS2.1382
   image: https://awwa.onlinelibrary.wiley.com/cms/asset/4549707d-3d8b-4242-a79c-694a506dc0a3/aws21382-fig-0001-m.jpg
 
+- id: doi:10.1016/J.BUILDENV.2023.110953
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360132323009800-gr1.jpg
+  
+- id: doi:10.1371/JOURNAL.PWAT.0000141
+  image: https://journals.plos.org/water/article/figure/image?size=medium&id=10.1371/journal.pwat.0000141.g001
+
+
+
+
+
+
+
+
 # comment out information below
 
 #- id: doi:10.1371/journal.pcbi.1007128
