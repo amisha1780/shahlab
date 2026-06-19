@@ -1,6 +1,26 @@
 - id: wosuid:WOS:000609182100023
   remove: true
 
+- id: doi:10.1016/j.envadv.2023.100386
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723000467-gr1.jpg
+  title: 'Crosslinked polyethylene (PEX) drinking water pipe: Carbon leaching, impacts
+    on microbial growth, and developmental toxicity to zebrafish'
+  authors:
+  - Christian Ley Mathews
+  - Ola Wasel
+  - Kristofer P. Isaacson
+  - Caitlin R. Proctor
+  - Miriam Tariq
+  - Amisha D. Shah
+  - Jennifer L. Freeman
+  - Andrew J. Whelton
+  publisher: Environmental Advances
+  date: '2023-10-01'
+  link: https://doi.org/hb74rx
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+
 - id: doi:10.1016/J.JHAZMAT.2025.137562
   #image: "/shahlab/images/highlights_picture2.jpg"
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389425004765-ga1.jpg
@@ -16,9 +36,6 @@
   
 - id: doi:10.1371/JOURNAL.PWAT.0000141
   image: https://journals.plos.org/water/article/figure/image?size=medium&id=10.1371/journal.pwat.0000141.g001
-
-- id: doi:10.1016/j.envadv.2023.100386
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723X00039-cov150h.gif
 
 - id: doi:10.1021/ACS.EST.3C00700
   image: https://pubs.acs.org/cms/10.1021/acs.est.3c00700/asset/images/medium/es3c00700_0007.gif
