@@ -46,7 +46,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: https://awwa.onlinelibrary.wiley.com/cms/asset/4549707d-3d8b-4242-a79c-694a506dc0a3/aws21382-fig-0001-m.jpg
+  image: /shahlab/images/publications_isaacson_awwa_paper.jpg
 - id: doi:https://doi.org/10.1016/j.envadv.2023.100386
   title: 'Crosslinked polyethylene (PEX) drinking water pipe: Carbon leaching, impacts
     on microbial growth, and developmental toxicity to zebrafish'
