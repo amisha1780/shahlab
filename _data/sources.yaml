@@ -53,6 +53,18 @@
 - id: doi:10.1039/D0EM00219D
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0EM00219D&imageInfo.ImageIdentifier.Year=2020
 
+- id: doi:10.1039/D0EW00262C
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0EW00262C&imageInfo.ImageIdentifier.Year=2020
+  
+- id: doi:10.1016/J.BUILDENV.2019.106566
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360132319307784-fx1.jpg
+
+- id: doi:10.1021/ACS.ESTLETT.9B00397
+  image: https://pubs.acs.org/cms/10.1021/acs.estlett.9b00397/asset/images/medium/ez9b00397_0004.gif
+
+- id: doi:10.1021/ACS.EST.9B01446
+  image: https://pubs.acs.org/cms/10.1021/acs.est.9b01446/asset/images/medium/es-2019-014462_0008.gif
+
   
 
 
