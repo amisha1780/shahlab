@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-The list below provides all peer-reviewed papers published by members of the Shah lab and PI Shah:
+Below is a list of all peer-reviewed papers published by members of the Shah lab and PI Shah:
 
 {% include section.html %}
 
