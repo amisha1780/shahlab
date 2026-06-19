@@ -46,7 +46,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: shahlab/images/publications_isaacson_awwa_paper.jpg
+  image: https://awwa.onlinelibrary.wiley.com/cms/asset/0a695627-b24d-44c0-b519-ee2ab3db839c/aws2.v6.4.cover.jpg
 - id: doi:https://doi.org/10.1016/j.envadv.2023.100386
   title: 'Crosslinked polyethylene (PEX) drinking water pipe: Carbon leaching, impacts
     on microbial growth, and developmental toxicity to zebrafish'
@@ -272,7 +272,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11069-021-04714-9/MediaObjects/11069_2021_4714_Fig1_HTML.png?
+  image: https://media.springernature.com/w120/springer-static/cover-hires/journal/11069?as=webp
 - id: doi:10.1016/J.BUILDENV.2019.106566
   title: An investigation of spatial and temporal drinking water quality variation
     in green residential plumbing
@@ -654,6 +654,6 @@
   publisher: Environmental Advances
   date: '2023-10-01'
   link: https://doi.org/hb74rx
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723000467-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723X00039-cov150h.gif
   plugin: sources.py
   file: sources.yaml
