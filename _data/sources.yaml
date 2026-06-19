@@ -9,7 +9,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0360132324010631-gr2.jpg
 
 - id: doi:10.1002/AWS2.1382
-  image: "shahlab/images/publications_isaacson_awwa_paper.jpg"
+  image: https://awwa.onlinelibrary.wiley.com/cms/asset/0a695627-b24d-44c0-b519-ee2ab3db839c/aws2.v6.4.cover.jpg
 
 - id: doi:10.1016/J.BUILDENV.2023.110953
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0360132323009800-gr1.jpg
@@ -18,7 +18,7 @@
   image: https://journals.plos.org/water/article/figure/image?size=medium&id=10.1371/journal.pwat.0000141.g001
 
 - id: doi:10.1016/j.envadv.2023.100386
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723000467-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723X00039-cov150h.gif
 
 - id: doi:10.1021/ACS.EST.3C00700
   image: https://pubs.acs.org/cms/10.1021/acs.est.3c00700/asset/images/medium/es3c00700_0007.gif
@@ -39,7 +39,7 @@
   image: https://pubs.acs.org/cms/10.1021/acs.estlett.1c00390/asset/images/medium/ez1c00390_0003.gif
 
 - id: doi:10.1007/S11069-021-04714-9
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11069-021-04714-9/MediaObjects/11069_2021_4714_Fig1_HTML.png?
+  image: https://media.springernature.com/w120/springer-static/cover-hires/journal/11069?as=webp
 
 - id: doi:10.1021/ACS.EST.0C06122
   image: https://pubs.acs.org/cms/10.1021/acs.est.0c06122/asset/images/medium/es0c06122_0010.gif
