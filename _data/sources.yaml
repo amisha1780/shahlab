@@ -32,6 +32,19 @@
 - id: doi:10.1016/J.HAZL.2021.100042
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666911021000307-ga1.jpg
   
+- id: doi:10.1016/J.MEMSCI.2021.119717
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0376738821006633-ga1.jpg
+  
+- id: doi:10.1021/ACS.ESTLETT.1C00390
+  image: https://pubs.acs.org/cms/10.1021/acs.estlett.1c00390/asset/images/medium/ez1c00390_0003.gif
+
+- id: doi:10.1007/S11069-021-04714-9
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11069-021-04714-9/MediaObjects/11069_2021_4714_Fig1_HTML.png?
+
+- id: doi:10.1021/ACS.EST.0C06122
+  image: https://pubs.acs.org/cms/10.1021/acs.est.0c06122/asset/images/medium/es0c06122_0010.gif
+
+
 
 
 
