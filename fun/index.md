@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-face-laugh" %}Fun!
 
-Memories from our group. It has been a joy to share science, hobbies, and food!
+Memories from our group. It has been such a joy to share science, hobbies, and food together!!! 
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
   <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
