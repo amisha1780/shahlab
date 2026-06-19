@@ -5,7 +5,7 @@ nav:
   tooltip: List of publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
 {% include section.html %}
 
