@@ -44,8 +44,16 @@
 - id: doi:10.1021/ACS.EST.0C06122
   image: https://pubs.acs.org/cms/10.1021/acs.est.0c06122/asset/images/medium/es0c06122_0010.gif
 
+- id: doi:10.1039/D0EW00836B
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0EW00836B&imageInfo.ImageIdentifier.Year=2021
 
+- id: doi:10.1002/AWS2.1183
+  image: https://awwa.onlinelibrary.wiley.com/cms/asset/d3da99fc-bd61-4fca-a346-df0d688c893a/aws21183-fig-0001-m.jpg
+  
+- id: doi:10.1039/D0EM00219D
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0EM00219D&imageInfo.ImageIdentifier.Year=2020
 
+  
 
 
 
