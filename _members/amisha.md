@@ -3,7 +3,7 @@ name: Dr. Amisha Shah
 image: images/group_amisha.jpeg
 role: principal-investigator
 group: PI and Current Group Members
-affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV.pdf'>Updated CV</a>"
+affiliation: "Purdue University<br><a href='/shahlab/assets/shah_CV_19June2026.pdf'>Updated CV</a>"
 aliases:
   - Shah
 
