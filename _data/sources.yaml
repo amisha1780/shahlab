@@ -65,9 +65,56 @@
 - id: doi:10.1021/ACS.EST.9B01446
   image: https://pubs.acs.org/cms/10.1021/acs.est.9b01446/asset/images/medium/es-2019-014462_0008.gif
 
+- id: doi:10.1039/C7EW00439G
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7EW00439G&imageInfo.ImageIdentifier.Year=2018
+
+- id: doi:10.1016/J.WATRES.2018.06.042
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135418304925-fx1.jpg
   
+- id: doi:10.1021/ACS.EST.8B01618
+  image: https://pubs.acs.org/cms/10.1021/acs.est.8b01618/asset/images/medium/es-2018-01618s_0002.gif
 
+- id: doi:10.1021/ES503920N
+  image: https://pubs.acs.org/cms/10.1021/es503920n/asset/images/medium/es-2014-03920n_0007.gif
 
+- id: doi:10.1039/C5EW00061K
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5EW00061K&imageInfo.ImageIdentifier.Year=2015
+
+- id: doi:10.1016/J.CHEMOSPHERE.2014.03.135
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653514005268-gr1.jpg
+
+- id: doi:10.1021/ES304893M
+  image: https://pubs.acs.org/cms/10.1021/es304893m/asset/images/medium/es-2012-04893m_0005.gif
+
+- id: doi:10.1021/ES301867B
+  image: https://pubs.acs.org/cms/10.1021/es301867b/asset/images/medium/es-2012-01867b_0006.gif
+
+- id: doi:10.1021/ES204717J
+  image: https://pubs.acs.org/cms/10.1021/es204717j/asset/images/medium/es-2011-04717j_0001.gif
+
+- id: doi:10.1021/ES203312S
+  image: https://pubs.acs.org/cms/10.1021/es203312s/asset/images/medium/es-2011-03312s_0007.gif
+
+- id: doi:10.1016/J.MEMSCI.2011.10.034
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0376738811007940-gr2.sml
+
+- id: doi:10.1016/J.WATRES.2011.09.010
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004313541100529X-fx1.jpg
+
+- id: doi:10.1021/ES104240V
+  image: https://pubs.acs.org/cms/10.1021/es104240v/asset/images/medium/es-2010-04240v_0005.gif
+
+- id: doi:10.1021/ES060404C
+  image: https://pubs.acs.org/cms/10.1021/es060404c/asset/images/medium/es060404cf00001.gif
+
+- id: doi:10.1021/ES050054E
+  image: https://pubs.acs.org/cms/10.1021/es050054e/asset/images/medium/es050054ef00001.gif
+
+- id: doi:10.1016/S0006-3495(02)75579-3
+  image: https://www.cell.com/cms/10.1016/S0006-3495(02)75579-3/asset/6dd4fb90-879d-4a11-9b00-202c3c4b619a/main.assets/gr1.jpg
+
+- id: doi:10.2307/3393148
+  image: https://www.jstor.org/cover-image/7bc77995-6d68-3618-8744-a9c79145ef9f
 
 # comment out information below
 
