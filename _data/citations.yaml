@@ -384,8 +384,9 @@
   date: '2018-10-01'
   link: https://doi.org/gd7588
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135418304925-fx1.jpg
 - id: doi:10.1021/ACS.EST.8B01618
   title: 'Indirect Photochemical Formation of Carbonyl Sulfide and Carbon Disulfide
     in Natural Waters: Role of Organic Sulfur Precursors, Water Quality Constituents,
@@ -397,8 +398,9 @@
   date: '2018-07-25'
   link: https://doi.org/gd69zh
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.est.8b01618/asset/images/medium/es-2018-01618s_0002.gif
 - id: doi:10.1039/C7EW00439G
   title: Role of tertiary amines in enhancing trihalomethane and haloacetic acid formation
     during chlorination of aromatic compounds and a natural organic matter extract
@@ -409,8 +411,9 @@
   date: '2018-01-01'
   link: https://doi.org/gwc7m6
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7EW00439G&imageInfo.ImageIdentifier.Year=2018
 - id: doi:10.1039/C5EW00061K
   title: 'Formation of disinfection by-products during ballast water treatment with
     ozone, chlorine, and peracetic acid: influence of water quality parameters'
@@ -425,8 +428,9 @@
   date: '2015-01-01'
   link: https://doi.org/gpwj9p
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5EW00061K&imageInfo.ImageIdentifier.Year=2015
 - id: doi:10.1021/ES503920N
   title: 'Peracetic Acid Oxidation of Saline Waters in the Absence and Presence of
     H<sub>2</sub>O<sub>2</sub>: Secondary Oxidant and Disinfection Byproduct Formation'
@@ -440,8 +444,9 @@
   date: '2015-01-22'
   link: https://doi.org/f62838
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es503920n/asset/images/medium/es-2014-03920n_0007.gif
 - id: doi:10.1016/J.CHEMOSPHERE.2014.03.135
   title: 'Emerging risks from ballast water treatment: The run-up to the International
     Ballast Water Management Convention'
@@ -471,8 +476,9 @@
   date: '2014-10-01'
   link: https://doi.org/f6jsth
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653514005268-gr1.jpg
 - id: doi:10.1021/ES304893M
   title: Application of Ultraviolet, Ozone, and Advanced Oxidation Treatments to Washwaters
     To Destroy Nitrosamines, Nitramines, Amines, and Aldehydes Formed during Amine-Based
@@ -485,8 +491,9 @@
   date: '2013-03-01'
   link: https://doi.org/f4q32q
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es304893m/asset/images/medium/es-2012-04893m_0005.gif
 - id: doi:10.1021/ES203312S
   title: 'Halonitroalkanes, Halonitriles, Haloamides, and N-Nitrosamines: A Critical
     Review of Nitrogenous Disinfection Byproduct Formation Pathways'
@@ -497,8 +504,9 @@
   date: '2011-12-12'
   link: https://doi.org/cxdtg3
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es203312s/asset/images/medium/es-2011-03312s_0007.gif
 - id: doi:10.1021/ES301867B
   title: Measurement of Nitrosamine and Nitramine Formation from NO<sub><i>x</i></sub>
     Reactions with Amines during Amine-Based Carbon Dioxide Capture for Postcombustion
@@ -514,8 +522,9 @@
   date: '2012-08-16'
   link: https://doi.org/f36v7k
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es301867b/asset/images/medium/es-2012-01867b_0006.gif
 - id: doi:10.1016/J.MEMSCI.2011.10.034
   title: 'Mechanisms of antibiotic removal by nanofiltration membranes: Model development
     and application'
@@ -527,8 +536,9 @@
   date: '2012-02-01'
   link: https://doi.org/fgf423
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0376738811007940-gr2.sml
 - id: doi:10.1021/ES204717J
   title: Trade-Offs in Disinfection Byproduct Formation Associated with Precursor
     Preoxidation for Control of <i>N</i>-Nitrosodimethylamine Formation
@@ -542,8 +552,9 @@
   date: '2012-04-12'
   link: https://doi.org/f3w7kv
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es204717j/asset/images/medium/es-2011-04717j_0001.gif
 - id: doi:10.1021/ES104240V
   title: Impact of UV Disinfection Combined with Chlorination/Chloramination on the
     Formation of Halonitromethanes and Haloacetonitriles in Drinking Water
@@ -556,8 +567,9 @@
   date: '2011-03-18'
   link: https://doi.org/db6r7s
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es104240v/asset/images/medium/es-2010-04240v_0005.gif
 - id: doi:10.1016/J.WATRES.2011.09.010
   title: Tertiary amines enhance reactions of organic contaminants with aqueous chlorine
   authors:
@@ -568,8 +580,9 @@
   date: '2011-11-01'
   link: https://doi.org/c8d7cb
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004313541100529X-fx1.jpg
 - id: doi:10.1021/ES060404C
   title: Reaction Kinetics and Transformation of Carbadox and Structurally Related
     Compounds with Aqueous Chlorine
@@ -581,8 +594,9 @@
   date: '2006-08-05'
   link: https://doi.org/bsn62v
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es060404c/asset/images/medium/es060404cf00001.gif
 - id: doi:10.1021/ES050054E
   title: "Interactions of Fluoroquinolone Antibacterial Agents with Aqueous Chlorine:\u2009\
     \ Reaction Kinetics, Mechanisms, and Transformation Pathways"
@@ -595,8 +609,9 @@
   date: '2005-08-06'
   link: https://doi.org/d7tbhv
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/es050054e/asset/images/medium/es050054ef00001.gif
 - id: doi:10.1016/S0006-3495(02)75579-3
   title: Quantitative Analysis of Actin Patch Movement in Yeast
   authors:
@@ -609,8 +624,9 @@
   date: '2002-05-01'
   link: https://doi.org/fcvwv3
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/S0006-3495(02)75579-3/asset/6dd4fb90-879d-4a11-9b00-202c3c4b619a/main.assets/gr1.jpg
 - id: doi:10.2307/3393148
   title: New Amazonian Taxa of Philodendron (Araceae)
   authors:
@@ -620,8 +636,9 @@
   date: '2001-01-01'
   link: https://doi.org/fw7p79
   orcid: 0000-0003-0096-9922
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.jstor.org/cover-image/7bc77995-6d68-3618-8744-a9c79145ef9f
 - id: doi:10.1016/j.envadv.2023.100386
   title: 'Crosslinked polyethylene (PEX) drinking water pipe: Carbon leaching, impacts
     on microbial growth, and developmental toxicity to zebrafish'
