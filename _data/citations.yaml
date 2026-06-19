@@ -47,6 +47,24 @@
   plugin: sources.py
   file: sources.yaml
   image: https://awwa.onlinelibrary.wiley.com/cms/asset/4549707d-3d8b-4242-a79c-694a506dc0a3/aws21382-fig-0001-m.jpg
+- id: doi:https://doi.org/10.1016/j.envadv.2023.100386
+  title: 'Crosslinked polyethylene (PEX) drinking water pipe: Carbon leaching, impacts
+    on microbial growth, and developmental toxicity to zebrafish'
+  authors:
+  - Christian Ley Mathews
+  - Ola Wasel
+  - Kristofer P. Isaacson
+  - Caitlin R. Proctor
+  - Miriam Tariq
+  - Amisha D. Shah
+  - Jennifer L. Freeman
+  - Andrew J. Whelton
+  publisher: Environmental Advances
+  date: '2023-10-01'
+  link: https://doi.org/hb74rx
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/ANNWEH/WXAC096
   title: Evaluation of Workplace Exposures to Volatile Chemicals During COVID-19 Building
     Disinfection Activities with Proton Transfer Reaction Mass Spectrometry
