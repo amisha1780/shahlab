@@ -654,6 +654,7 @@
   publisher: Environmental Advances
   date: '2023-10-01'
   link: https://doi.org/hb74rx
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723X00039-cov150h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666765723000467-gr1.jpg
+  orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
