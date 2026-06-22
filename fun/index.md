@@ -21,6 +21,7 @@ Memories from our group. It has been such a joy to share science, hobbies, and f
   <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_photo12.jpeg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
 </div>
 
 {% comment}
