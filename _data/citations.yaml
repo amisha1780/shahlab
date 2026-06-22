@@ -46,7 +46,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
-  image: https://awwa.onlinelibrary.wiley.com/cms/asset/0a695627-b24d-44c0-b519-ee2ab3db839c/aws2.v6.4.cover.jpg
+  image: https://awwa.onlinelibrary.wiley.com/cms/asset/3bfd5ead-7812-4964-a53e-fe5be7b93fd7/aws2.v8.3.cover.gif
 - id: doi:10.1093/ANNWEH/WXAC096
   title: Evaluation of Workplace Exposures to Volatile Chemicals During COVID-19 Building
     Disinfection Activities with Proton Transfer Reaction Mass Spectrometry
