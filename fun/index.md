@@ -11,6 +11,8 @@ Memories from our group. It has been such a joy to share science, hobbies, and f
 
 <div style="column-count: 3; column-gap: 10px; width: 100%; padding: 0; box-sizing: border-box;">
   <img src="/shahlab/images/fun_photo1.jpg" style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_phase2_photo1.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
+  <img src="/shahlab/images/fun_phase2_photo2.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo2.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo3.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo4.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
@@ -20,7 +22,6 @@ Memories from our group. It has been such a joy to share science, hobbies, and f
   <img src="/shahlab/images/fun_photo8.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo9.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo10.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
-  <img src="/shahlab/images/fun_photo11.jpg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
   <img src="/shahlab/images/fun_photo12.jpeg"  style="width: 100%; display: block; margin-bottom: 10px; border-radius: 8px;">
 </div>
 
