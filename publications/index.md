@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1016/J.JHAZMAT.2025.137562" style="rich" %}
+{% include citation.html lookup="doi:10.1021/acs.est.6c07369" style="rich" %}
 
 {% include section.html %}
 
