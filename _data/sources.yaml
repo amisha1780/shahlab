@@ -1,3 +1,23 @@
+- id: doi:10.1021/acs.est.6c07369
+  title: 'Presence of Critical Materials in Select U.S. Municipal Solid Waste Landfill Leachates'
+  authors:
+  - Nadezhda N. Zyaykina
+  - Inez Hua
+  - Lindsay Soh
+  - Chantelle A. Miller
+  - Reagan J. VanDermark
+  - Brynna C. Donohoe
+  - Caitlin R. Proctor
+  - Ngai Yin Yip
+  - Guanchun Wang
+  - Amisha D. Shah
+  publisher: 'Environmental Science & Technology'
+  date: '2026-08-06'
+  link: https://doi.org/hcd7w2
+  orcid: 0000-0003-0096-9922
+  plugin: orcid.py
+  file: orcid.yaml
+
 - id: wosuid:WOS:000609182100023
   remove: true
 
