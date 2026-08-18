@@ -20,6 +20,7 @@
   orcid: 0000-0003-0096-9922
   plugin: sources.py
   file: sources.yaml
+  image: https://acs.silverchair-cdn.com/acs/content_public/journal/esthag/60/32/10.1021_acs.est.6c07369/1/m_es6c07369_0004.svg?Expires=1790092837&Signature=Y1ywSbecHYB29YMQN1Df~ZcycHEKTVcIAoEioI-ZHA2mjww~fktjdRixKgNcp5BeiXDfjnJeEAmAoN3trx-tj5xn9WfS4I8XVjPk6Of5y67zh5Lbj3mnzsAeH5ao55CE8cX4dcMDLzdhoK3HJDlRGZdaZT7hiZDEs1IwqCeRjmgmHYVSMShSbQCOZ2lDi-~CiI9Y12ve8zR~xBWHCWKS7dEmQ8rDT~z-3Y57D6s-0DhSSgy9nUYVGNQ2G5Vz-ZsmvuWYb3~SSN5jwZ-A7mptZJlXXDhY6cdD7T1itiFsNNV0B1DsFVJt8IKZyF9v94Ig4zS1iloUcAjO13J5yE6K~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1016/J.JHAZMAT.2025.137562
   title: Formation and aqueous phase leaching of organic compounds following thermal
     degradation of commercial drinking water plastic pipes
