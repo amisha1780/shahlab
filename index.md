@@ -34,7 +34,7 @@ Posted: 10 June 2026. One current project evaluates the key protochemical reacti
 
 {% capture text %}
 
-Posted: 19 Aug 2026. Check out one of our recently published paper evaluating critical materials content in landfill leachate! We are super excited to showcase this work =), given some really interesting results (24 critical materials were found!) and given that this is our first paper published from an ongoing NSF ECO-CBET project.
+Posted: 19 Aug 2026. Check out one of our recently published paper evaluating critical materials content in landfill leachate! We are super excited to showcase this work =). We observed some really interesting results (24 critical materials were found!), and this paper was the first one published from an ongoing NSF ECO-CBET project.
 
 {%
   include button.html
