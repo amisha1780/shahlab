@@ -49,7 +49,7 @@ Posted: 19 Aug 2026. Check out one of our recently published paper evaluating cr
 
 {%
   include feature.html
-  image="images/highlights_picture2.jpg"
+  image="images/highlights_picture2.svg"
   link="publications"
   title="Our Publications"
   flip=true
