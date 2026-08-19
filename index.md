@@ -34,7 +34,7 @@ Posted: 10 June 2026. One current project evaluates the key protochemical reacti
 
 {% capture text %}
 
-Posted: 10 June 2026. Check out one of our papers published by our recent Ph.D. graduate, Kris Isaacson! His paper evaluated the formation and leaching of organic compounds following thermal degradation of drinking water plastic pipes. His work directly impacts the potential role of plastic pipes in contaminating drinking water during wildfires.
+Posted: 19 Aug 2026. Check out one of our recently published paper evaluating critical materials content in landfill leachate! We are super excited to showcase this work =), given some really interesting results (24 critical materials were found!) and given that this is our first paper published from an ongoing NSF ECO-CBET project.
 
 {%
   include button.html
